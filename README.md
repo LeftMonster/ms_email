@@ -102,6 +102,13 @@ Contributions are welcome! Here's how:
 
 This project is open source and available under the [MIT License](LICENSE).
 
+### Contact
+
+Feel free to reach out with any questions or suggestions:
+
+- WeChat: zhzhsgh
+- Discord: leftmonster
+
 ---
 
 <div align="center">

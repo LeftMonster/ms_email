@@ -101,6 +101,13 @@ npm run serve
 
 本项目采用开源 [MIT 许可证](LICENSE)。
 
+
+## 联系方式
+如有任何问题或建议，欢迎联系：
+
+- 微信：zhzhsgh
+- Discord：leftmonster
+
 ---
 
 <div align="center">
