@@ -105,7 +105,7 @@ npm run serve
 ## 联系方式
 如有任何问题或建议，欢迎联系：
 
-- 微信：zhzhsgh
+- 微信：zhzhsgg
 - Discord：leftmonster
 
 ---

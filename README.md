@@ -106,7 +106,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Feel free to reach out with any questions or suggestions:
 
-- WeChat: zhzhsgh
+- WeChat: zhzhsgg
 - Discord: leftmonster
 
 ---
